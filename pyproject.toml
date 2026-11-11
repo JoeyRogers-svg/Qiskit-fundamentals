@@ -17,3 +17,8 @@ dependencies = [
     "scipy>=1.17.0",
     "scvi-tools>=1.4.1",
 ]
+
+[dependency-groups]
+dev = [
+    "rise>=5.7.1",
+]
